@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 👋 Hi, I’m Sayali!<br>I’m developer with a love for building innovative solutions and learning new technologies. My interests span across web development, machine learning, and exploring the latest in tech trends.<br><br>🚀 What I Do<br>Languages: Python, C++, C, JavaScript<br><br>Frameworks & Tools: Django, React, Node.js, TensorFlow, PyTorch<br><br>Specialties: Web Application Development, Machine Learning, API Design and Integration<br><br>🌱 Currently Learning<br>Large Language Models (LLMs) and generative AI, Deep Learning techniques<br><br>📫 How to Reach Me<br>Email: sayalidatar233@gmail.com<br>LinkedIn: https://in.linkedin.com/in/sayali-datar-a877b6252
 
 
